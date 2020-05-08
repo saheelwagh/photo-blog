@@ -12,10 +12,10 @@ const img_set = [
     desc : 'Majestic yellow-black vistor in our backyard',
   },
   {
-    src : require('../assets/images/fulls/wiiner winner wild chicken dinnner.jpg.jpg'),
-    thumbnail : require('../assets/images/thumbs/winner winner wild chicken dinner.jpg'),
+    src : require('../assets/images/fulls/chicken.jpg'),
+    thumbnail : require('../assets/images/thumbs/chicken.jpg'),
     title : 'Winner winner chicken dinner',
-    desc: ' ',
+    desc: ' Wild hen',
   },
   {
     src : require('../assets/images/fulls/faceoff.jpg'),
@@ -24,8 +24,8 @@ const img_set = [
     desc : 'inter species face-off'
   },
   {
-    src : require('../assets/images/fulls/gossip girls.jpg'),
-    thumbnail : require('../assets/images/thumbs/gossip girls.jpg'),
+    src : require('../assets/images/fulls/gossip.jpg'),
+    thumbnail : require('../assets/images/thumbs/gossipgirls.jpg'),
     title : 'Gossip Girls',
     desc: 'Little birds indulged in gossip'
   },
@@ -42,20 +42,20 @@ const img_set = [
     desc : ''
   },
   {
-    src : require('../assets/images/fulls/monsoon cover.jpg'),
-    thumbnail : require('../assets/images/thumbs/monsoon cover.jpg'),
+    src : require('../assets/images/fulls/monsoon.jpg'),
+    thumbnail : require('../assets/images/thumbs/monsooncover.jpg'),
     title : 'Monsoon Cover',
     desc : 'Over Taleigao Plateau'
   },
   {
-    src : require('../assets/images/fulls/neck tilt.jpg'),
-    thumbnail : require('../assets/images/thumbs/neck tilt.jpg'),
+    src : require('../assets/images/fulls/neck.jpg'),
+    thumbnail : require('../assets/images/thumbs/necktilt.jpg'),
     title : 'Neck tilt',
     desc : ''
   },
   {
-    src: require('../assets/images/fulls/nectar of life.jpg'),
-    thumbnail : require('../assets/images/thumbs/nectar of life.jpg'),
+    src: require('../assets/images/fulls/nectar.jpg'),
+    thumbnail : require('../assets/images/thumbs/nectar.jpg'),
     title : 'Enjoying a sip',
     desc : ' '
   },
