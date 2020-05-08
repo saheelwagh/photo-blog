@@ -11,7 +11,7 @@ export default function Footer({ onClose, isVisible }) {
             <h2>More about the blog</h2>
             <p>
               Shanti Wagh is an amateur nature photographer based in Goa, India. She loves spotting birds and promptly identifying them with the help of her friend and guide: Aradhana Rao Rangahachar, discovering indigeneous flowers growing naturally around her home and documenting these through her camera. Her other hobbies include tending to her backyard garden and cooking delicious food.
-              <p style={{color:'orange'}}>All images clicked through Canon PowerShot SX60 HS</p>
+              <p style={{color:'orange'}}>All images clicked using Canon PowerShot SX60 HS</p>
             </p>
             <p>
               Website Developed by <a href="https://www.swagh.xyz">S.Wagh</a>
