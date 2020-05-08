@@ -21,25 +21,25 @@ const img_set = [
     src : require('../assets/images/fulls/faceoff.jpg'),
     thumbnail : require('../assets/images/thumbs/faceoff.jpg'),
     title : 'Face-off',
-    desc : 'inter species face-off'
+    desc : 'inter species face-off',
   },
   {
     src : require('../assets/images/fulls/gossip.jpg'),
     thumbnail : require('../assets/images/thumbs/gossipgirls.jpg'),
     title : 'Gossip Girls',
-    desc: 'Little birds indulged in gossip'
+    desc: 'Little birds indulged in gossip',
   },
   {
     src : require('../assets/images/thumbs/hornbill.jpg'),
     thumbnail : require('../assets/images/thumbs/hornbill.jpg'),
     title : 'Hornbill',
-    desc : ' '
+    desc : ' ',
   },
   {
     src : require('../assets/images/fulls/kingfisher.jpg'),
     thumbnail : require('../assets/images/fulls/kingfisher.jpg'),
     title : 'Kingfisher',
-    desc : ''
+    desc : '',
   },
   {
     src : require('../assets/images/fulls/monsoon.jpg'),
@@ -51,13 +51,13 @@ const img_set = [
     src : require('../assets/images/fulls/neck.jpg'),
     thumbnail : require('../assets/images/thumbs/necktilt.jpg'),
     title : 'Neck tilt',
-    desc : ''
+    desc : '',
   },
   {
     src: require('../assets/images/fulls/nectar.jpg'),
     thumbnail : require('../assets/images/thumbs/nectar.jpg'),
     title : 'Enjoying a sip',
-    desc : ' '
+    desc : ' ',
   },
   {
     src : require('../assets/images/fulls/pattern.jpg'),
@@ -69,13 +69,13 @@ const img_set = [
     src : require('../assets/images/fulls/sunset.jpg'),
     thumbnail : require('../assets/images/thumbs/sunset.jpg'),
     title: 'Sunset',
-    desc : 'Over Carambolim Lake'
+    desc : 'Over Carambolim Lake',
   },
   {
     src : require('../assets/images/fulls/up.jpg'),
     thumbnail : require ('../assets/images/thumbs/up.jpg'),
     title : 'Looking Up',
-    desc : ' '
+    desc : ' ',
   }
  
 ];
