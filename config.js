@@ -1,6 +1,6 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Multiverse', // <title>
-  manifestName: 'Multiverse',
+  siteTitle: `Shanti's Nature Clicks`, // <title>
+  manifestName: 'Shanti clicks Nature',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
@@ -8,8 +8,8 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-multiverse/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Anubhav',
-  subHeading: 'Web Developer',
+  heading: `Shanti's`,
+  subHeading: 'Nature Clicks',
   // social
   socialLinks: [
     {

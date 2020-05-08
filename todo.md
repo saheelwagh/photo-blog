@@ -1,0 +1,6 @@
+- [ ] select 12 img
+- [ ] crop and save thumbs
+- [ ] add descr
+- [ ] check out prismic plugin
+- [ ] create prismic strcuture
+- [ ] integrate prismic
